@@ -1,6 +1,6 @@
-<h1 align="center">MusicDistro></h1>
+<h1 align="center">MusicDistro</h1>
 
-<p align="center"><This is a template website for music distribution, using Bootstrap.></p>
+<p align="center">This is a template website for music distribution, using Bootstrap.</p>
 
 ## Built With
 
